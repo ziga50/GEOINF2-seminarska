@@ -1,8 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Read CSV file into a pandas DataFrame
-# Replace 'your_data.csv' with the actual path to your CSV file
+
 df = pd.read_csv(r"C:\Users\zigao\OneDrive - Univerza v Ljubljani\Documents\krevs_23_suša.csv")
 
 # Plotting
